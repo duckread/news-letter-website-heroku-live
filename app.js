@@ -69,7 +69,3 @@ app.listen( process.env.PORT || 3000, function(req,res){
   console.log("I am 3000.");
 });
 
-// api key
-//e1190dd45b986b80f6a4642ab87ff211-us19
-// list  ID
-// 840a33663e
